@@ -1,0 +1,3 @@
+class CreateStoreUseCase {}
+
+export { CreateStoreUseCase };
