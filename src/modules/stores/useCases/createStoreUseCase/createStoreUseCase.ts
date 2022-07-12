@@ -1,3 +1,0 @@
-class CreateStoreUseCase {}
-
-export { CreateStoreUseCase };
